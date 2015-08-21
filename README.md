@@ -6,7 +6,7 @@ Coursera course: [Practical Machine Learning](https://class.coursera.org/predmac
 # Useful links:
 
 **Github Page** For Project: https://github.com/sionam/machine_learning
-
+**Github io Page** For Project Report: 
 
 # Background
 
